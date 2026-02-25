@@ -66,4 +66,4 @@ Before building the dashboard, the dataset was cleaned and transformed:
 ## Dashboard Preview
 ## 🔹 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Dashboard Overview](screenschorts/page1.png)
